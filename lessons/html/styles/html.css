@@ -11,42 +11,30 @@ body {
     /* Set font-size to 16px */
     /* Set font family to be Helvetica */
     /* Set padding to 50px */
-    font-size: 16px;
-    font-family: Helvetica;
-    padding: 50px;
 }
 
 h1 {
     /* Set text alignment to center */
     /* Set font to bold 36px Georgia */
     /* Set border-bottom to black solid 5px */
-    text-align: center;
-    font: bold 60px Georgia;
-    border-bottom: 5px solid black;
 }
 
 h2 {
     /* Set font color to be red (BONUS: try using a hex code like #e51b24!) */
-    color: red;
 }
 
 p {
     /* Set width to 800px */
-    width: 800px;
 }
 
 img {
     /* Set maximum width to be 500 pixels */
     /* Set border to 7px; remove any border attributes from the tag! */
-    max-width: 500px;
-    border: 5px solid black;
 }
 
 .recipe {
     /* Set color to maroon: #661111 */
     /* Set text-decoration to underline */
-    color: #661111;
-    text-decoration: underline;
 }
 
 .ingredients {
@@ -54,15 +42,10 @@ img {
     /* Set color to white */
     /* Set border to 2px solid black */
     /* Set width to 500px */
-    background: gray;
-    color: #FFF;
-    border: 2px solid black;
-    width: 500px;
 }
 
 #smile {
     /*Set width to 25px*/
-    width: 50px;
 }
 
 footer {
@@ -71,9 +54,4 @@ footer {
     /* Set padding on all sides to be 20 pixels */
     /* Set text alignment to center */
     /* Set margin on top to be 60 pixels */
-    color: white;
-    background-color: black;
-    padding: 20px;
-    text-align: center;
-    margin-top: 60px;
 }
